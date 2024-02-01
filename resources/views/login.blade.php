@@ -19,7 +19,7 @@
                     </div>
                     <div class="mb-3">
                         <label class="form-label text-black">Contraseña</label>
-                        <input type="text" class="form-control" id="password" name="password">
+                        <input type="password" class="form-control" id="password" name="password">
                     </div>
                     <div class="mb-3 d-grid">
                         <button type="submit" class="btn btn-secondary btn-block">Iniciar sesion</button>
